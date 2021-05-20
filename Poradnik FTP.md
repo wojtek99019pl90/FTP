@@ -44,4 +44,3 @@ W oknie oznaczonym numerem **2** są pliki serwerowe.
 Aby pobrać plik z serwera na nasz komputer trzeba zaznaczyć plik i kliknąć **F5** albo przeciągnąć go na nasz pulpit lub do jakiegoś folderu.
 
 **UWAGA** Wgrywanie własnego silnika zakończy się niepowodzeniem. Craftserve pozwala korzystać wyłącznie z silników, które znajdują się w zakładce **Ustawienia/Silniki**. Jeśli potrzebny na serwer jest silnik, którego nie ma w tej zakładce, można napisać do supportu z prośbą o wgranie go.
-
